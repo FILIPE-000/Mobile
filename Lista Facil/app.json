@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Lista Fácil",
+    "slug": "lista-facil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "listafacil",
+    "ios": { "supportsTablet": true },
+    "android": {
+      "package": "com.example.listafacil",
+      "permissions": ["POST_NOTIFICATIONS"]
+    },
+    "plugins": ["expo-sqlite", "expo-notifications"],
+    "experiments": { "typedRoutes": false }
+  }
+}
