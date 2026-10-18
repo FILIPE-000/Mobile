@@ -1,13 +1,12 @@
-**##Projeto Lista Facíl##**
+**##Chuva Matrix#**
 
- Novo projeto mais recente, consegue realizar tarefas e é possivel vê o inicio e o fim de uma atividade, cada atividade tem uma categoria e cada categoria tem as
-características necessárias, o projeto tem como único agente utilizado o chat GPT para o sucesso da aplicação foi necessário duas tentativas.
+ Novo projeto mais recente, consegue simular uma chuva matrix.
 
-  A maior dificuldade para a realização desse projeto foi as notificações de cookie que já não funciona mais na versão atual do expo GO, isso fez com que o chat
- tivesse que refazer a aplicação mais uma vez trazendo o sucesso da operação.
+  A maior dificuldade para a realização desse projeto foi a funcionalização da chuva e a falta de internet do local
 
-  Feito com React Native testado com Expo Go, temos a solução perfeita para a realização de suas tarefas, o mais novo, mais proativo Lista Facil.
+  Feito com React Native testado com Expo Go, temos algo bem tecnologico e divertido, Matrix Rain
 
 **##Projetos Anteriores##**
 
 ***Damas***: feito com flutter + android Studio (para atividades escolares)
+***Lista Facíl*** feito com react native e expo go para testes
